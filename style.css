@@ -655,6 +655,10 @@ h3.my-profession{
     margin-bottom: 60px;
 }
 
+#text{
+    color: var(--text-black-900);
+}
+
 .contact .contact-info-item .icon{
     display: inline-block;
 }
